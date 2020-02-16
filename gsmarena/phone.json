@@ -1,0 +1,74 @@
+[
+    {
+        "Network": {
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (Dual SIM model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 ",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 14(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700), 30(2300), 38(2600), 39(1900), 40(2300), 41(2500), 46(5200), 48, 66(1700/2100), 71(600) - SM-G988U",
+            "5G": "SA/NSA/Sub6/mmWave",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2000/200 Mbps; 5G (5+ Gbps DL)"
+        },
+        "Launch": {
+            "Announced": "2020, February 11",
+            "Status": "Coming soon. Exp. release 2020, March 6"
+        },
+        "Body": {
+            "Dimensions": "166.9 x 76 x 8.8 mm (6.57 x 2.99 x 0.35 in)",
+            "Weight": "222 g (7.83 oz)",
+            "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 6), aluminum frame",
+            "SIM": "Single SIM (Nano-SIM and/or eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "Dynamic AMOLED 2X capacitive touchscreen, 16M colors",
+            "Size": "6.9 inches, 114.0 cm",
+            "Resolution": "1440 x 3200 pixels, 20:9 ratio (~511 ppi density)",
+            "Protection": "Corning Gorilla Glass 6"
+        },
+        "Platform": {
+            "OS": "Android 10.0; One UI 2",
+            "Chipset": "Exynos 990 (7 nm+) - Global",
+            "CPU": "Octa-core (2x2.73 GHz Mongoose M5 & 2x2.60 GHz Cortex-A76 & 4x2.0 GHz Cortex-A55) - Global",
+            "GPU": "Mali-G77 MP11 - Global"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (uses shared SIM slot)",
+            "Internal": "128GB 12GB RAM, 256GB 12GB RAM, 512GB 16GB RAM"
+        },
+        "Main Camera": {
+            "Quad": "108 MP, f/1.8, 26mm (wide), 1/1.33\", 0.8µm, PDAF, OIS",
+            "Features": "LED flash, auto-HDR, panorama",
+            "Video": "4320p@24fps, 2160p@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, dual-video rec., stereo sound rec., gyro-EIS & OIS"
+        },
+        "Selfie camera": {
+            "Dual": "40 MP, f/2.2, 26mm (wide), 0.7µm, PDAF",
+            "Features": "Dual video call, Auto-HDR",
+            "Video": "2160p@30/60fps, 1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes, with stereo speakers",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/ax, dual-band, Wi-Fi Direct, hotspot",
+            "Bluetooth": "5.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS, BDS, GALILEO",
+            "NFC": "Yes",
+            "Radio": "FM radio (USA & Canada only)",
+            "USB": "3.2, Type-C 1.0 reversible connector"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+            "Charging": "Fast battery charging 45W: 100% in 58 min"
+        },
+        "Misc": {
+            "Colors": "Cosmic Grey, Cosmic Black",
+            "Models": "SM-G988, SM-G988U, SM-G988U1, SM-G9880, SM-G988B/DS, SM-G988N",
+            "SAR": "0.94 W/kg (head)     0.95 W/kg (body)     ",
+            "SAR EU": "0.32 W/kg (head)     1.56 W/kg (body)     ",
+            "Price": "€ 1,349.00 / £ 1,194.99 / ₹ 92,999"
+        },
+        "null": {}
+    }
+]

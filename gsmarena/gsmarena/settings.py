@@ -56,6 +56,7 @@ ROBOTSTXT_OBEY = True
 #    'gsmarena.middlewares.GsmarenaDownloaderMiddleware': 543,
 #}
 
+
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 #EXTENSIONS = {
